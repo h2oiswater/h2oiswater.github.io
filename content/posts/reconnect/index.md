@@ -8,7 +8,7 @@ draft = false
 
 ## 1. 初始化
 
-1. Github新建一个和Repo，名字是`自己的用户名.github.io`。
+1. Github新建一个Github Repo，名字是`自己的用户名.github.io`。
 	1. ![Github repo](./github_repo.png)
 2. 安装 [Hugo](https://gohugo.io/)  `brew install hugo`
 3. 初始化博客
@@ -32,5 +32,6 @@ draft = false
 		- `git push origin refs/heads/main --tags --set-upstream --verbose`
 	- Deploy with Cloudflare Pages
 		- [ref](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages)
+		- ![a](./cloudflare_page.png)
 
 
