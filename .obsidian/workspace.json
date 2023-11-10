@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "d85e048555591553",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5f9405e90bd9910",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "721261d984f42081",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/reconnect/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e872bf3c47efc760",
+    "type": "split",
+    "children": [
+      {
+        "id": "578a1ecb72a18953",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d7f7c5c0846e4af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6786793028a8c81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8c643a3d9eec020",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae55f0fe4ca8477e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc0281a81fe4250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef43ec2ec5d164e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/reconnect/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2dff30872678fc3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/reconnect/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3759af6707a752e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "400a4a3bfcd47b3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/reconnect/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "721261d984f42081",
+  "lastOpenFiles": [
+    "content/posts/reconnect/github_repo.png",
+    "content/posts/reconnect/index.md",
+    "content/posts/reconnect/Pasted image 20231110202355.png",
+    "resources/_gen/images",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "public/page/1/index.html",
+    "public/posts/reconnect/github_repo.png",
+    "public/assets/css/stylesheet.5cfc680b1eeaeef9efbced92d46c2a9e876b72ee14fba85846afc4cff9e6e6f8.css",
+    "public/page/1",
+    "public/tags/index.xml",
+    "public/tags/index.html",
+    "public/posts/reconnect",
+    "content/posts/reconnect.md"
+  ]
+}
