@@ -27,6 +27,8 @@ draft = false
 	- 提交代码到Github
 		- `git remote add origin git@github.com:h2oiswater/h2oiswater.github.io.git`
 		- `git branch -M main`
+		- `git add .`
+		- `git commit -m"chore: init`
 		- `git push -u origin main`
 	- Deploy with Cloudflare Pages
 		- [ref](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages)
