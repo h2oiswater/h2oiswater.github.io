@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://gongjiangpeng.cn'
 languageCode = 'en-us'
 title = 'Reconnect'
 theme = 'PaperMod'
