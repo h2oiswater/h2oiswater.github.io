@@ -12,13 +12,13 @@ draft = false
 		- 可以根据一个seed疯狂生成文本
 	- 知识库更新到2023年4月
 	- [DALL·E 3](https://openai.com/dall-e-3), TTS, Whisper v3
-	- 更近一步的自定义
+	- 自定义Model
 		- GPT-4开放自定义，GPT-3.5 turbo 16k 版本也是
 	- 限制更少
 		- 每分钟 token limits x2
 	- 可以一次调用多个方法了
 		- 以前，我要看你通讯录咯，可以吗？我要给你的帅比老伙计发短信咯，可以吗？
-		- 现在，我要打开你的通讯录并且群发你的bitcoin接受地址了，OK?
+		- 现在，我要打开你的通讯录并且群发你的bitcoin收款地址了
 	- 更便宜
 	- 更快
 - 微软CEO Azure带货
@@ -35,7 +35,7 @@ draft = false
 			- DALL·E
 			- Code Interpreter
 		-  Functions
-			- 接入自定义的方法，例如读取通讯录发送信息
+			- 接入自定义的方法，例如读取通讯录、发送信息
 - Assistance API - GPTs API version
 - Easter egg
 	- ![easter_egg.png](./easter_egg.png)
